@@ -1,5 +1,3 @@
-# CIFAR-10-Image-Classification_Project
-
 # CIFAR-10 Image Classification with ResNet50
 
 A comprehensive deep learning project for classifying images from the CIFAR-10 dataset using transfer learning with ResNet50. This project includes extensive Exploratory Data Analysis (EDA) and a two-phase training approach.
