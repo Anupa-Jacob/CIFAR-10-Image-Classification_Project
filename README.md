@@ -306,10 +306,5 @@ This project is open source and available under the [MIT License](LICENSE).
 - ResNet architecture: Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun
 - TensorFlow and Keras teams for excellent deep learning frameworks
 
-## 📧 Contact
-
-For questions or feedback:
-- Open an issue on GitHub
-
 
 
